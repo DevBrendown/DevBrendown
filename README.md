@@ -1,6 +1,6 @@
-## 👋 Brendow Rodrigues (DevBrendow)
+## 👋 Brendow Rodrigues (DevBrendown)
 
-Olá! Meu nome é **Brendow Rodrigues**, também conhecido como **DevBrendow**.  
+Olá! Meu nome é **Brendow Rodrigues**, também conhecido como **DevBrendown**.  
 Sou desenvolvedor focado em **soluções corporativas**, **automação de processos** e **análise de dados**, utilizando principalmente o ecossistema Google e tecnologias web.
 
 Neste perfil, compartilho projetos, estudos e experimentos voltados para **Apps Script, Google Sheets, dashboards, KPIs e visualização de dados com Python**.
